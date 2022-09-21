@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ester
-- 👀 I’m interested in QA, site reliability and Cloud computing.
+- 👀 
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: linkedin/ester-llach
