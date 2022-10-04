@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Ester
-- 👀 
+- 👋 Hi, I’m Ester 
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: linkedin/ester-llach
