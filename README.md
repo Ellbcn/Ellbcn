@@ -1,6 +1,5 @@
 - 👋 Hi, my name's Ester 
 - 🌱 I’m a QA tester
-- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: linkedin/ester-llach
 
 <!---
